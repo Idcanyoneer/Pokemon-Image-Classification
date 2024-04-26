@@ -2,3 +2,6 @@ images/.DS_Store
 images/pokemonimages/.DS_Store
 .DS_Store
 venv/
+archive/images/
+__pycache__/
+.conda/
